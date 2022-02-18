@@ -2,7 +2,7 @@
 baseURL: "https://ezzhang8.github.io/"
 title: PaperMod
 paginate: 5
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
