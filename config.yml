@@ -30,17 +30,17 @@ languages:
             menu:
                 main:
                     - name: Projects
-                      url: posts/
+                      url: projects/
                       weight: 5
                     - name: Experience
-                      url: tags
+                      url: experience/
                       weight: 10
-                    - name: Categories
-                      url: categories
-                      weight: 10
-                    - name: Blog
-                      url: series
-                      weight: 10
+                    # - name: Categories
+                    #   url: categories
+                    #   weight: 10
+                    # - name: Blog
+                    #   url: series
+                    #   weight: 10
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -57,23 +57,24 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
+    ShowShareButtons: false
     ShowToc: true
     # comments: false
     images: ["papermod-cover.png"]
 
     profileMode:
       enabled: true
-      title: Hello there!
-      # imageUrl: "#"
+      title: Hi there!
+      imageUrl: "/images/profile.png"
       # imageTitle: my image
-      # imageWidth: 120
-      # imageHeight: 120
-      subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+      imageWidth: 200
+      imageHeight: 200
+      subtitle: "I'm Eric, an aspiring software engineer in my final year of high school. <br> Currently, I'm <a class=\"blue\" target=\"_blank\" href=\"https://www.troutwood.com/about.html\">interning at Troutwood</a>, and developing projects in my school community."
       buttons:
-          - name: Blog
-            url: posts
-          - name: Tags
-            url: tags
+          - name: ❤️ Projects
+            url: projects
+          - name: 🛠️ Experience
+            url: experience
     
 
     homeInfoParams:
@@ -86,16 +87,13 @@ params:
         
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: RsS
-          url: "index.xml"
-
-    editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+          url: "https://github.com/ezzhang8"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/-ericzhang/"
+        - name: Twitter
+          url: "https://twitter.com/Zhangster"
+        - name: Instagram
+          url: "https://instagram.com/er.ic.zhang/"
 
     # label:
     #     text: "Home"

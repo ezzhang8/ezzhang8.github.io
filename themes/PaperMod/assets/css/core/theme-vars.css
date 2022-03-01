@@ -44,3 +44,6 @@
     background: var(--theme);
 }
 
+a.blue {
+    color: rgb(37, 84, 255) !important;
+}
