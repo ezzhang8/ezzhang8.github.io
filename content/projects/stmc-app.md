@@ -2,151 +2,43 @@
 author: "Eric Zhang"
 title: "STMC iOS App"
 date: "2020-10-15"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: ["markdown", "css", "html", "themes"]
+description: "A student life app I developed for my high school!"
+tags: ["app", "ios", "swift", "xcode"]
 categories: ["themes", "syntax"]
-series: ["Themes Guide"]
-aliases: ["migrate-from-jekyl"]
+series: ["STMC App"]
+aliases: ["stmc-app"]
 ShowToc: true
 TocOpen: false
 weight: 2
 ---
+<p align="center">
+  <img style="filter: drop-shadow(0px 0px 5px #909090);" src="/projects/stmc-app/stmc.png" height="100px" width="100px"/>
+</p>
+<p align="center">
+  <a href="https://apps.apple.com/ca/app/stmc/id1535346830?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: show; border-radius: 13px; width: 150px; height: 63px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-ca?size=150x36&amp;releaseDate=1602633600&h=59db9ed20649a95abfeafc2f412683ca" alt="Download on the App Store" style="border-radius: 13px; width: 150px; height: 63px;"></a> 
+</p>
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+>*View schedules, class rotations, and timetables in advance to always be prepared for the future.
+This app also is compatible with Widgets, allowing you to add a snapshot of the school day to your home screen.
+Designed for St. Thomas More Collegiate students, staff, and community, this app will keep you updated about everything on campus.*
 
-<!--more-->
 
-## Headings
+## Inception 
+### September 2017 – May 2018
+"What's the schedule for tomorrow?" and "when's next class?" were the most common questions asked by my classmates. School started at 8:23 AM, and lunch was at 11:52 AM. Classes were 63 minutes long, with an 11 minute recess and 3 minutes to move between each class. Eighth graders like me were expected to keep track of these *literally* odd lengths of time.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Sometimes school would end 25 minutes early and follow an entirely different schedule, but it was never communicated effectively.
 
-# H1
+### June 2018
+I ran for the student council with a popular running mate against other very popular candidates. Unexpectedly, we win the only 2 seats reserved for grade 8s.
 
-## H2
+### September 2018
+The odd schedule system was revised to make the length of each class, transition, and break a multiple of 5 minutes. However, it came with even more variations for assemblies and special classes. The same inconveniences from before remained.
 
-### H3
+### May 2019
+I'm now running for re-election, and I need a creative campaign idea. I had seen 
 
-#### H4
+## Development
 
-##### H5
 
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-box.
-
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
-
-#### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
-```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
--   List item
--   Another item
--   And another item
-
-#### Nested list
-
--   Fruit
-    -   Apple
-    -   Orange
-    -   Banana
--   Dairy
-    -   Milk
-    -   Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup>: Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+## Usage
