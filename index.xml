@@ -29,12 +29,13 @@
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Work Experience</title>
       <link>https://ezzhang8.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ezzhang8.github.io/experience/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <description>Software Development Intern, Troutwood June 2021 - present • Currently working on a team of three developing Finulator, an educational game targeted at improving financial literacy • Adapted the CSS to be responsive, enabling the game to be played on mobile
+• Designed significant improvements to the user interfaces for investing, shopping, and saving in React.js • Applied object-oriented programming in JavaScript to create effective simulations of a 401(k), Roth IRA, and S&amp;amp;P 500 ETF</description>
     </item>
     
   </channel>
