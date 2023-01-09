@@ -19,4 +19,7 @@ The development cycle basically follows the [STMC App](../stmc-app), except that
 
 I created a Chrome Extension which would display class schedules, bulletins, competitions, and push notifications to managed school Chromebooks. This program uses the same REST API as the iOS app, and can be managed by admins in the admin control panel I developed.
 
+## Images
 ![](/projects/stmc-ext/1.png)
+![](/projects/stmc-ext/2.png)
+![](/projects/stmc-ext/3.png)
