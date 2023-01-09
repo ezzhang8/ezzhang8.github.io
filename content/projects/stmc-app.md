@@ -9,7 +9,7 @@ series: ["STMC App"]
 aliases: ["stmc-app"]
 ShowToc: true
 TocOpen: false
-weight: 2
+weight: 1
 ---
 <p align="center">
   <img style="filter: drop-shadow(0px 0px 5px #909090);" src="/projects/stmc-app/stmc.png" height="100px" width="100px"/>
