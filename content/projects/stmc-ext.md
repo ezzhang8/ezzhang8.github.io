@@ -15,4 +15,8 @@ weight: 2
 
 ## Inception 
 ### September 2018 – December 2019
-The development cycle basically follows the [STMC App](./stmc-ext), except that I had most of this done before 2020.
+The development cycle basically follows the [STMC App](../stmc-app), except that I had most of this done before 2020.
+
+I created a Chrome Extension which would display class schedules, bulletins, competitions, and push notifications to managed school Chromebooks. This program uses the same REST API as the iOS app, and can be managed by admins in the admin control panel I developed.
+
+![](/projects/stmc-ext/1.png)
