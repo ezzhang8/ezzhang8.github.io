@@ -69,7 +69,7 @@ params:
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, an aspiring software engineer in my final year of high school. <br> Currently, I'm <a class=\"blue\" target=\"_blank\" href=\"https://www.troutwood.com/about.html\">interning at Troutwood</a>, and developing projects in my school community."
+      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently, I'm in my 1B term. Check out some of my past and current projects!"
       buttons:
           - name: ❤️ Projects
             url: projects
