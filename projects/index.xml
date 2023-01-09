@@ -19,5 +19,14 @@
       <description>A student life app I developed for my high school!</description>
     </item>
     
+    <item>
+      <title>STMC Chrome Extension</title>
+      <link>https://ezzhang8.github.io/projects/stmc-ext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezzhang8.github.io/projects/stmc-ext/</guid>
+      <description>A Chrome extension I developed for my high school community!</description>
+    </item>
+    
   </channel>
 </rss>
