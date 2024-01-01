@@ -69,7 +69,7 @@ params:
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently, I'm in my 1B term. Check out some of my past and current projects!"
+      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Check out some of my past and current projects!"
       buttons:
           - name: ❤️ Projects
             url: projects
