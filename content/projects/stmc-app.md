@@ -6,6 +6,8 @@ description: "A student life app I developed for my high school!"
 tags: ["app", "ios", "swift", "xcode"]
 categories: ["themes", "syntax"]
 series: ["STMC App"]
+cover:
+  image: /projects/stmc-app/stmc.png
 aliases: ["stmc-app"]
 ShowToc: true
 TocOpen: false
