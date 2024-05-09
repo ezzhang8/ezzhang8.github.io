@@ -42,6 +42,10 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
+            <svg style="margin: auto; margin-right: 10px;" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" width="30px" height="44px">
+                <path fill-rule="evenodd" fill="rgb(255, 255, 255)"
+                    d="M29.629,25.765 L20.815,25.765 L29.629,17.698 L29.629,25.765 ZM29.629,43.526 L8.438,43.526 L0.0,43.526 L0.0,0.0 L8.438,0.0 L29.629,0.0 L29.629,8.817 L8.438,8.817 L8.438,17.510 L17.190,17.510 L8.438,25.520 L8.438,34.708 L29.629,34.708 L29.629,43.526 Z" />
+            </svg>
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
