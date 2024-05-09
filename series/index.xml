@@ -5,38 +5,34 @@
     <link>https://ezzhang8.github.io/series/</link>
     <description>Recent content in Series on Eric Zhang</description>
     <image>
+      <title>Eric Zhang</title>
       <url>https://ezzhang8.github.io/papermod-cover.png</url>
       <link>https://ezzhang8.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ezzhang8.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ezzhang8.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STMC App</title>
       <link>https://ezzhang8.github.io/series/stmc-app/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/series/stmc-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Themes Guide</title>
       <link>https://ezzhang8.github.io/series/themes-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>STMC Extension</title>
       <link>https://ezzhang8.github.io/series/stmc-extension/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ezzhang8.github.io/series/stmc-extension/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -5,48 +5,42 @@
     <link>https://ezzhang8.github.io/</link>
     <description>Recent content on Eric Zhang</description>
     <image>
+      <title>Eric Zhang</title>
       <url>https://ezzhang8.github.io/papermod-cover.png</url>
       <link>https://ezzhang8.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ezzhang8.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ezzhang8.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STMC iOS App</title>
       <link>https://ezzhang8.github.io/projects/stmc-app/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://ezzhang8.github.io/projects/stmc-app/</guid>
       <description>A student life app I developed for my high school!</description>
     </item>
-    
     <item>
       <title>Markdown Syntax Guide For RTL</title>
       <link>https://ezzhang8.github.io/posts/test/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ezzhang8.github.io/posts/test/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
-    
     <item>
       <title>STMC Chrome Extension</title>
       <link>https://ezzhang8.github.io/projects/stmc-ext/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ezzhang8.github.io/projects/stmc-ext/</guid>
       <description>A Chrome extension I developed for my high school community!</description>
     </item>
-    
     <item>
       <title>Work Experience</title>
       <link>https://ezzhang8.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ezzhang8.github.io/experience/</guid>
       <description>Software Development Intern, Troutwood June 2021 - present • Currently working on a team of three developing Finulator, an educational game targeted at improving financial literacy • Adapted the CSS to be responsive, enabling the game to be played on mobile
 • Designed significant improvements to the user interfaces for investing, shopping, and saving in React.js • Applied object-oriented programming in JavaScript to create effective simulations of a 401(k), Roth IRA, and S&amp;amp;P 500 ETF</description>
     </item>
-    
   </channel>
 </rss>
