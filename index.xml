@@ -39,8 +39,8 @@
       <link>https://ezzhang8.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/experience/</guid>
-      <description>Software Development Intern, Troutwood June 2021 - present • Currently working on a team of three developing Finulator, an educational game targeted at improving financial literacy • Adapted the CSS to be responsive, enabling the game to be played on mobile
-• Designed significant improvements to the user interfaces for investing, shopping, and saving in React.js • Applied object-oriented programming in JavaScript to create effective simulations of a 401(k), Roth IRA, and S&amp;amp;P 500 ETF</description>
+      <description>Software Developer Intern, Bell Canada May 2023 - May 2024 • Expanded Contractor Dashboard (CDB), a Vue.js/Express/Node/SQL stack TypeScript internal web application for Bell contractors to securely report insights to management, to 2 new business divisions. • Streamlined business intelligence reporting of unresolved Smart Home and Wireless customer linkups from a Google Forms workflow to a tailored full-stack web app, reducing turnaround time by more than 50%.
+Meta Open Source, MLH Fellowship May 2022 - Aug 2022 • Integrated Meta’s Mapillary GeoJSON APIs with Meta’s MapWithAI Rapid Editor, enabling OpenStreetMap contributors to access street imagery datasets, through maintainer-approved pull requests on GitHub.</description>
     </item>
   </channel>
 </rss>
