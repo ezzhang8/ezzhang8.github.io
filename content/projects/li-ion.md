@@ -7,7 +7,7 @@ tags: ["Research"]
 categories: ["themes", "syntax"]
 series: ["Students on the Beamlines"]
 cover:
-  image:  /projects/csdc2021/cansat-team.jpg
+  image:  /projects/li-ion/results.png
 aliases: ["li-ion"]
 ShowToc: true
 TocOpen: false
