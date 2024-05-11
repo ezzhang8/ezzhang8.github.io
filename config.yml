@@ -44,8 +44,8 @@ languages:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "Eric Zhang's Personal Website"
+    author: Eric Zhang
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -69,14 +69,13 @@ params:
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Check out some of my past and current projects!"
+      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently looking for an internship in Fall 2024 for my 3<sup>rd</sup> co-op term. <br><br> Check out my projects and experience to see if I'd be a great match for your team!"
       buttons:
           - name: ❤️ Projects
             url: projects
           - name: 🛠️ Experience
             url: experience
     
-
     homeInfoParams:
         Title: "PaperMod"
         Content: >
@@ -102,10 +101,10 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    # assets:
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
+    assets:
+        favicon: "/images/favicon.ico"
+        favicon16x16: "/images/favicon16.png"
+        favicon32x32: "/images/favicon32.png"
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 

@@ -14,7 +14,7 @@ html {
 }
 
 #main-header {
-    background-color: var(--nav);
+    background-color: var(--entry);
     width: 100%;
 
 }

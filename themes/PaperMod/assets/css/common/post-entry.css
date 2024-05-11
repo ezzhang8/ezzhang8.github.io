@@ -96,10 +96,16 @@
 }
 
 .entry-cover img {
-    border-radius: var(--radius);
+    pointer-events: none;
+    height: auto
+}
+
+.post-entry > .entry-cover img {
     pointer-events: none;
     max-height: 100px;
-    height: auto;
+    width: 100%;
+    object-fit: cover;
+
 }
 
 .entry-cover a {
