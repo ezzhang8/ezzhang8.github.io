@@ -11,21 +11,49 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ezzhang8.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STMC iOS App</title>
       <link>https://ezzhang8.github.io/projects/stmc-app/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/projects/stmc-app/</guid>
       <description>A student life app I developed for my high school!</description>
     </item>
     <item>
       <title>STMC Chrome Extension</title>
       <link>https://ezzhang8.github.io/projects/stmc-ext/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/projects/stmc-ext/</guid>
       <description>A Chrome extension I developed for my high school community!</description>
+    </item>
+    <item>
+      <title>Lithium-ion Battery Research</title>
+      <link>https://ezzhang8.github.io/projects/li-ion/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/li-ion/</guid>
+      <description>Collaborating with the Canadian Light Source, Tesla, and Nano One Materials Corp.</description>
+    </item>
+    <item>
+      <title>Canadian Satellite Design Challenge (2022)</title>
+      <link>https://ezzhang8.github.io/projects/csdc2022/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/csdc2022/</guid>
+      <description>Tracking ionizing radiation in a can shaped form factor.</description>
+    </item>
+    <item>
+      <title>Canadian Satellite Design Challenge (2021)</title>
+      <link>https://ezzhang8.github.io/projects/csdc2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/csdc2021/</guid>
+      <description>Winning the inaugural CanSat competition for high schools</description>
+    </item>
+    <item>
+      <title>RockyRoad</title>
+      <link>https://ezzhang8.github.io/projects/rockyroad/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/rockyroad/</guid>
+      <description>Winning the inaugural CanSat competition for high schools</description>
     </item>
   </channel>
 </rss>

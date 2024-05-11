@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ezzhang8.github.io/series/stmc-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STMC iOS App</title>
       <link>https://ezzhang8.github.io/projects/stmc-app/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/projects/stmc-app/</guid>
       <description>A student life app I developed for my high school!</description>
     </item>

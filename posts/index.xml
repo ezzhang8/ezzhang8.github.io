@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ezzhang8.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting on my time at Bell</title>
+      <link>https://ezzhang8.github.io/posts/bell/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/posts/bell/</guid>
+      <description>Applying popular technologies to niche problems</description>
+    </item>
+    <item>
+      <title>Contributing to Meta Open Source</title>
+      <link>https://ezzhang8.github.io/posts/mlh/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/posts/mlh/</guid>
+      <description>How the MLH Fellowship </description>
+    </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
       <link>https://ezzhang8.github.io/posts/test/</link>

@@ -11,14 +11,56 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ezzhang8.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflecting on my time at Bell</title>
+      <link>https://ezzhang8.github.io/posts/bell/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/posts/bell/</guid>
+      <description>Applying popular technologies to niche problems</description>
+    </item>
     <item>
       <title>STMC iOS App</title>
       <link>https://ezzhang8.github.io/projects/stmc-app/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/projects/stmc-app/</guid>
       <description>A student life app I developed for my high school!</description>
+    </item>
+    <item>
+      <title>STMC Chrome Extension</title>
+      <link>https://ezzhang8.github.io/projects/stmc-ext/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/stmc-ext/</guid>
+      <description>A Chrome extension I developed for my high school community!</description>
+    </item>
+    <item>
+      <title>Lithium-ion Battery Research</title>
+      <link>https://ezzhang8.github.io/projects/li-ion/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/li-ion/</guid>
+      <description>Collaborating with the Canadian Light Source, Tesla, and Nano One Materials Corp.</description>
+    </item>
+    <item>
+      <title>Contributing to Meta Open Source</title>
+      <link>https://ezzhang8.github.io/posts/mlh/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/posts/mlh/</guid>
+      <description>How the MLH Fellowship </description>
+    </item>
+    <item>
+      <title>Canadian Satellite Design Challenge (2022)</title>
+      <link>https://ezzhang8.github.io/projects/csdc2022/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/csdc2022/</guid>
+      <description>Tracking ionizing radiation in a can shaped form factor.</description>
+    </item>
+    <item>
+      <title>Canadian Satellite Design Challenge (2021)</title>
+      <link>https://ezzhang8.github.io/projects/csdc2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/csdc2021/</guid>
+      <description>Winning the inaugural CanSat competition for high schools</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
@@ -28,19 +70,18 @@
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
-      <title>STMC Chrome Extension</title>
-      <link>https://ezzhang8.github.io/projects/stmc-ext/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ezzhang8.github.io/projects/stmc-ext/</guid>
-      <description>A Chrome extension I developed for my high school community!</description>
-    </item>
-    <item>
       <title>Work Experience</title>
       <link>https://ezzhang8.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ezzhang8.github.io/experience/</guid>
-      <description>Software Developer Intern, Bell Canada May 2023 - May 2024 • Expanded Contractor Dashboard (CDB), a Vue.js/Express/Node/SQL stack TypeScript internal web application for Bell contractors to securely report insights to management, to 2 new business divisions. • Streamlined business intelligence reporting of unresolved Smart Home and Wireless customer linkups from a Google Forms workflow to a tailored full-stack web app, reducing turnaround time by more than 50%.
-Meta Open Source, MLH Fellowship May 2022 - Aug 2022 • Integrated Meta’s Mapillary GeoJSON APIs with Meta’s MapWithAI Rapid Editor, enabling OpenStreetMap contributors to access street imagery datasets, through maintainer-approved pull requests on GitHub.</description>
+      <description>Software Developer Intern, Bell Canada May 2023 - May 2024 • Expanded Contractor Dashboard (CDB), a Vue.js/Express/Node/SQL stack TypeScript internal web application for Bell contractors to securely report insights to management, to 2 new business divisions. • Streamlined business intelligence reporting of unresolved Smart Home and Wireless customer linkups from a Google Forms workflow to a tailored full-stack web app, reducing turnaround time by more than 50%. Read more Meta Open Source, MLH Fellowship May 2022 - Aug 2022 • Integrated Meta’s Mapillary GeoJSON APIs with Meta’s MapWithAI Rapid Editor, enabling OpenStreetMap contributors to access street imagery datasets, through maintainer-approved pull requests on GitHub.</description>
+    </item>
+    <item>
+      <title>RockyRoad</title>
+      <link>https://ezzhang8.github.io/projects/rockyroad/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/rockyroad/</guid>
+      <description>Winning the inaugural CanSat competition for high schools</description>
     </item>
   </channel>
 </rss>

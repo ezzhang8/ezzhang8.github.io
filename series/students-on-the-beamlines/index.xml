@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Students on the Beamlines on Eric Zhang</title>
+    <link>https://ezzhang8.github.io/series/students-on-the-beamlines/</link>
+    <description>Recent content in Students on the Beamlines on Eric Zhang</description>
+    <image>
+      <title>Eric Zhang</title>
+      <url>https://ezzhang8.github.io/papermod-cover.png</url>
+      <link>https://ezzhang8.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ezzhang8.github.io/series/students-on-the-beamlines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lithium-ion Battery Research</title>
+      <link>https://ezzhang8.github.io/projects/li-ion/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ezzhang8.github.io/projects/li-ion/</guid>
+      <description>Collaborating with the Canadian Light Source, Tesla, and Nano One Materials Corp.</description>
+    </item>
+  </channel>
+</rss>
