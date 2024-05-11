@@ -11,6 +11,7 @@ cover:
 aliases: ["stmc-ext"]
 ShowToc: true
 TocOpen: false
+Summary: A Chrome extension I developed for my high school, accompanying the iOS app.
 weight: 1
 ---
 

@@ -11,6 +11,7 @@ cover:
   image: /posts/bell/vault.png
   caption: Tour of the 'vault'-- the internet cables running underneath Bell's Toronto office.
 ShowToc: true
+Summary: test
 TocOpen: true
 weight: 1
 ---

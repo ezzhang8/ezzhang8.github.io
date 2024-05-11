@@ -11,6 +11,7 @@ cover:
 aliases: ["stmc-app"]
 ShowToc: true
 TocOpen: false
+Summary: A student life app I developed and released for my high school, which shows schedules, events, announcements, and other resources.
 weight: 1
 ---
 <p align="center">
