@@ -25,7 +25,7 @@ ShowReadingTime: false
 • Added automated tests via the CircleCI integration with the GitHub repository.  <br>
 • Presented the project in a 40 minute internal conference seen by 120 at Meta.
 
-<a href="/posts/mlh"><button class="button">Read more</button></a>
+<!-- <a href="/posts/mlh"><button class="button">Read more</button></a> -->
 <br>
 <img src="/images/companies/Troutwood.jpg" height="100px" width="100px"/>
 

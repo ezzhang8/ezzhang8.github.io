@@ -7,12 +7,13 @@ tags: ["JavaScript", "SQL", "PHP"]
 categories: ["themes", "syntax"]
 series: ["STMC Extension"]
 cover:
-  image: /projects/stmc-ext/1.png
+  image: /projects/stmc-ext/stmc-ext-cover.jpg
 aliases: ["stmc-ext"]
 ShowToc: true
 TocOpen: false
 Summary: A Chrome extension I developed for my high school, accompanying the iOS app.
 weight: 1
+GithubLink: https://github.com/ezzhang8/STMC-Extension
 ---
 
 

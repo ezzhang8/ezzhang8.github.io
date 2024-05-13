@@ -13,6 +13,8 @@ ShowToc: true
 TocOpen: false
 Summary: A student life app I developed and released for my high school, which shows schedules, events, announcements, and other resources.
 weight: 1
+GithubLink: https://github.com/ezzhang8/STMC-App
+
 ---
 <p align="center">
   <img style="filter: drop-shadow(0px 0px 5px #909090);" src="/projects/stmc-app/stmc.png" height="100px" width="100px"/>
