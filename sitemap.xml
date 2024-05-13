@@ -14,22 +14,13 @@
     <loc>https://ezzhang8.github.io/projects/li-ion/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ezzhang8.github.io/posts/mlh/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ezzhang8.github.io/projects/csdc2022/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/projects/csdc2021/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ezzhang8.github.io/posts/test/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ezzhang8.github.io/experience/</loc>
-  </url><url>
-    <loc>https://ezzhang8.github.io/projects/rockyroad/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/categories/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
@@ -106,52 +97,28 @@
     <loc>https://ezzhang8.github.io/series/students-on-the-beamlines/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ezzhang8.github.io/tags/circleci/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/flask/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/gis/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/postgresql/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/python/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/react.js/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
+    <loc>https://ezzhang8.github.io/tags/arduino/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/tags/c/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/series/cansat/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/tags/embedded-development/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/tags/i2c/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/tags/python/</loc>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/tags/raspberry-pi/</loc>
-    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ezzhang8.github.io/tags/arduino/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://ezzhang8.github.io/tags/spi/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
