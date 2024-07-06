@@ -69,7 +69,7 @@ params:
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently looking for an internship in Summer 2025 for my 4<sup>rd</sup> co-op term. <br><br> Check out my projects and experience to see if I'd be a great match for your team!"
+      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently looking for an internship in Summer 2025 for my 4<sup>th</sup> co-op term. <br><br> Check out my projects and experience to see if I'd be a great match for your team!"
       buttons:
           - name: ❤️ Projects
             url: projects
