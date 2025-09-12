@@ -65,29 +65,22 @@ params:
     profileMode:
       enabled: true
       title: Hi there!
-      imageUrl: "/images/profile.png"
+      imageUrl: "/images/profile2.jpg"
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, studying Software Engineering at the University of Waterloo. <br> Currently looking for an internship in Summer 2025 for my 4<sup>th</sup> co-op term. <br><br> Check out my projects and experience to see if I'd be a great match for your team!"
+      subtitle: "I'm Eric, a Software Engineering student at the University of Waterloo, graduating in 2027. <br> Looking for internship opportunities from January-August 2026! <br><br> Previously worked at Coinbase, Bell Canada and various fintech startups."
       buttons:
           - name: ❤️ Projects
             url: projects
           - name: 🛠️ Experience
-            url: experience
-    
-    homeInfoParams:
-        Title: "PaperMod"
-        Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-        
+            url: experience      
     socialIcons:
         - name: github
           url: "https://github.com/ezzhang8"
         - name: LinkedIn
           url: "https://www.linkedin.com/in/-ericzhang/"
-        - name: Twitter
+        - name: X
           url: "https://twitter.com/Zhangster"
         - name: Instagram
           url: "https://instagram.com/er.ic.zhang/"
