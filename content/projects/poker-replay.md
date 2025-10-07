@@ -20,3 +20,8 @@ GithubLink: https://github.com/LukasMartini/poker-replay
 > This project is currently live at [repl.poker](https://repl.poker)!
 
 My friend requested the data of all his past hands on PokerStars. We parsed it all into a database and built a web app to analyze his performance.
+
+You can log in with the following credentials to see a demo:
+
+Username: test_user
+Password: Testpassword123!
