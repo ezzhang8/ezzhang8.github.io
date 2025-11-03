@@ -69,7 +69,7 @@ params:
       # imageTitle: my image
       imageWidth: 200
       imageHeight: 200
-      subtitle: "I'm Eric, a Software Engineering student at the University of Waterloo, graduating in 2027. <br> Looking for internship opportunities from January-August 2026! <br><br> Previously worked at Coinbase, Bell Canada and various fintech startups."
+      subtitle: "I'm Eric, a Software Engineering student at the University of Waterloo, graduating in 2027. <br> Looking for internship opportunities in 2026! <br><br> Previously worked at Coinbase, Bell Canada and various fintech startups."
       buttons:
           - name: ❤️ Projects
             url: projects
