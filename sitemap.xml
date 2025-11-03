@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ezzhang8.github.io/projects/poliguessr/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ezzhang8.github.io/projects/poker-replay/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -26,36 +29,42 @@
     <loc>https://ezzhang8.github.io/experience/</loc>
   </url><url>
     <loc>https://ezzhang8.github.io/categories/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/tags/nextjs/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/series/poliguessr/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/projects/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/tags/react/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/series/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/tags/sqlite/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/categories/syntax/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/tags/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ezzhang8.github.io/categories/themes/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/series/pokerreplay/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/tags/postgresql/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/projects/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/react/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/series/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/categories/syntax/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/tags/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ezzhang8.github.io/categories/themes/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ezzhang8.github.io/series/experience/</loc>
